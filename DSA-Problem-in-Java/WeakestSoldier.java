@@ -2,7 +2,7 @@ import java.util.*;
 
 public class WeakestSoldier {
   static class Row implements Comparable<Row> {
-    int soldiers;
+    int soldiers; 
     int idx;
 
     public Row(int soldires, int idx) {
