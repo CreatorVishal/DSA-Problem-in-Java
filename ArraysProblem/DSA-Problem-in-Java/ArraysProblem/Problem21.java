@@ -1,3 +1,4 @@
+// Find minimum number of merge operations to make an array palindrome
 public class Problem21{
   public static int minMerge(int[] arr) {
     int i=0;
